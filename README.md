@@ -1,0 +1,5 @@
+## PROJEKTBESCHREIBUNG ##
+
+Bei mysimplecookbook handelt es sich um das erste große Studien-Projekt, welches im zweiten Semester entstanden ist. Mysimplecookbook ist ein Online-Kochbuch, welches es Usern ermöglicht ganz einfach Rezepte zu entdecken, zu speichern und zu teilen.
+In diesem Projekt wurde von mir erstmals ein Backend verwen- det und daher wurde der Fokus im Projekt auf die Datenbank und die sichere Kommunikation mit dieser gelegt. Mir wurde es ermöglicht meine im Studium erlernten Kenntnisse über PHP zu festigen und nach Abschluss dieses Projekts lässt sich sagen, dass ich den Umgang mit PHP und PostgreSQL sehr gut gelernt habe.
+Die fertige Website beinhaltet unter anderem ein Log-In-/Re- gistrierungs-Feature, eine Kommentarfunktion, die Möglichkeit selbst Rezepte (mit Bild) hochzuladen, Rezepte zu kommentie- ren/bewerten, in einer eigenen Liste abzuspeichern (welche im eigenen Profil angezeigt werden kann) und nach Rezepten zu suchen (unter Eingabe von einem Keyword oder Auswahl einer Kategorie).
